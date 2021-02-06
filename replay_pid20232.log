@@ -1,0 +1,9 @@
+JvmtiExport can_access_local_variables 0
+JvmtiExport can_hotswap_or_post_breakpoint 0
+JvmtiExport can_post_on_exceptions 0
+# 146 ciObject found
+ciMethod java/lang/Object <init> ()V 4097 1 46633 0 -1
+ciMethod java/lang/Object clone ()Ljava/lang/Object; 2049 1 256 0 -1
+ciMethod java/lang/invoke/MethodType returnType ()Ljava/lang/Class; 1153 1 144 0 -1
+ciMethod java/lang/invoke/MethodType parameterList ()Ljava/util/List; 897 1 112 0 -1
+ciMethod 
